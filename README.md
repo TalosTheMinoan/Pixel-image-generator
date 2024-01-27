@@ -39,7 +39,7 @@ This project was created as a contribution to the community, and you can use it 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.TXT).
 
 ---
 
