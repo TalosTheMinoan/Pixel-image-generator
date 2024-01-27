@@ -39,7 +39,7 @@ This project was created as a contribution to the community, and you can use it 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/TalosTheMinoan/Pixel-image-generator/tree/main?tab=MIT-1-ov-file#).
+This project is licensed under the [MIT License](https://github.com/TalosTheMinoan/Pixel-image-generator/blob/main/licence.txt).
 
 ---
 
